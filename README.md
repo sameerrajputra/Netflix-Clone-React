@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)
+Source Code
+video link: https://youtu.be/XtMThy8QKqU
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
